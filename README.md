@@ -2,11 +2,11 @@
 
 [X-Net: Brain Stroke Lesion Segmentation Based on Depthwise Separable Convolution and Long-range Dependencies (MICCAI 2019)](https://arxiv.org/abs/1907.07000)
 
-## Some issues to know
+## Environment
 
 Keras based implementation, using tensorflow backend.
 
-The environment is
+requirement :
 
 * Python 3.6.2
 * Keras 2.2.4
