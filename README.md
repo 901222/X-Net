@@ -4,7 +4,9 @@
 
 ## Environment
 
-Keras based implementation, using tensorflow backend.
+* Keras based implementation, using tensorflow backend.
+* They used ATLAS dataset.
+* They evaluate the models by 5-fold cross-validation experiments.
 
 requirement :
 
